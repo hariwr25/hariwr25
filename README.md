@@ -1,4 +1,4 @@
-# Hi, I'm Hari Wahyu Ramadhan 👋
+# Hi, I'm Hari Wahyu Ramadhan 
 
 <div align="center">
 
@@ -68,18 +68,6 @@ Developing modern web applications using frontend frameworks and backend technol
 Building web-based information systems to improve digital workflows and data management.
 
 Check out my repositories for more projects.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hariwr25&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariwr25&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 

@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Hari Wahyu Ramadhan
 
-<!--
-**hariwr25/hariwr25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Web Developer from Indonesia.
 
-Here are some ideas to get you started:
+- Laravel
+- React
+- Vue.js
+- Node.js
+- PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Portfolio:
+https://hariwr25.github.io/hari-portfolio/
+
+LinkedIn:
+www.linkedin.com/in/hari-wahyu-ramadhan

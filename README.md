@@ -1,22 +1,15 @@
-# 👋 Hi, I'm Hari Wahyu Ramadhan
-
-<h3 align="center">
-  Fullstack Web Developer | Information Technology Graduate
-</h3>
+<h1 align="center">Hi, I'm Hari Wahyu Ramadhan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Fullstack+Web+Developer;Building+Modern+Web+Applications;Laravel+%7C+Node.js+%7C+React+%7C+Vue.js;Turning+Ideas+Into+Digital+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;Laravel+%7C+Node.js+%7C+React+%7C+Vue.js;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
   <a href="https://hariwr25.github.io/hari-portfolio/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-2563EB?style=for-the-badge" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/hari-wahyu-ramadhan">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:hariwr25@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Hari%20Wahyu%20Ramadhan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -24,121 +17,100 @@
 
 ## 👨‍💻 About Me
 
-I'm **Hari Wahyu Ramadhan**, an Information Technology graduate from **Universitas Muhammadiyah Yogyakarta**, with a strong interest in Fullstack Web Development and Software Engineering.
+Hi! I'm **Hari Wahyu Ramadhan**, an Information Technology graduate and Fullstack Web Developer.
 
-I enjoy designing, developing, and maintaining web applications, from building responsive user interfaces to developing backend services and RESTful APIs.
+I specialize in building modern web applications with experience in both frontend and backend development. I enjoy transforming ideas into functional digital solutions with clean architecture, responsive interfaces, and efficient systems.
 
-I have hands-on experience working with modern JavaScript frameworks, PHP-based applications, database management, and collaborative development workflows.
-
-- 🎓 Information Technology Graduate – Universitas Muhammadiyah Yogyakarta
-- 💻 Interested in Fullstack & Backend Web Development
-- 🌐 Experienced in building web-based information systems
-- 🔧 Familiar with REST API development and database integration
-- 🚀 Passionate about learning new technologies and improving software quality
+💡 Interested in:
+- Fullstack Web Development
+- Backend Engineering
+- Software Development
+- Information Systems
+- Continuous Learning
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🚀 Tech Stack
 
 ### 🎨 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind" alt="Frontend Technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind" />
 </p>
+
 
 ### ⚙️ Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" alt="Backend Technologies"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php" />
 </p>
 
-### 🗄️ Database
+
+### 🗄️ Database & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" alt="Database Technologies"/>
-</p>
-
-### 🔧 Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" alt="Development Tools"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,git,github,vscode,linux" />
 </p>
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience & Projects
 
-### 🌐 Web Developer Intern — TVRI Yogyakarta
+### 🌐 Web Application Development
 
-**Web Application Development**
+Building fullstack applications using modern technologies:
 
-- Developed frontend interfaces using Vue.js and React.js.
-- Built backend services and RESTful APIs using Node.js and Express.js.
-- Worked with PHP and Laravel for web application development.
-- Implemented CRUD operations, authentication, and database integration.
-- Managed relational databases using MySQL.
-- Used Git and GitHub for version control and collaborative development.
+- Frontend development with React.js & Vue.js
+- Backend API development with Node.js & Express.js
+- Web application development using Laravel
+- Database design and optimization
 
----
+### 📊 Information System Development
 
-## 🚀 Featured Projects
-
-| Project | Description | Technologies |
-|:---|:---|:---|
-| 🌐 [Personal Portfolio](https://hariwr25.github.io/hari-portfolio/) | Personal website showcasing my skills, experience, and projects. | React.js, CSS |
-| 🏢 TVRI Internship Information System | Web-based system for managing internship registration and visitor registration at TVRI Yogyakarta. | Vue.js, Node.js, Express.js, MySQL |
-| 📦 Inventory Management System | Web-based application for managing inventory and product data. | Laravel, PHP, MySQL |
-| 📊 Mini ERP Application | ERP-related application development, including database integration and business data management. | Laravel, PHP, SQL |
-
-<p align="center">
-  <a href="https://github.com/hariwr25?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_More_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories"/>
-  </a>
-</p>
+Experienced in developing web-based information systems that help improve workflow, data management, and digital transformation.
 
 ---
 
-## 📊 GitHub Statistics
+## 📌 Featured Projects
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hariwr25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hari's GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariwr25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
+| Project | Description |
+|---|---|
+| 🌐 Portfolio Website | Personal portfolio website showcasing my projects and skills |
+| 📊 Information System | Web-based system for managing organizational data |
+| 🚀 Fullstack Application | Application built with modern frontend and backend technologies |
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hariwr25&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+More projects available on my repositories 👇
 
 ---
 
-## 🌱 Currently Exploring
+## 🌱 Currently Learning
 
 - Advanced Backend Development
-- Software Architecture & Design Patterns
-- Database Design and Optimization
-- Cloud Computing & Deployment
-- Modern Web Development Practices
+- Cloud Computing
+- Software Architecture
+- Better Engineering Practices
 
 ---
 
-## 🤝 Let's Connect!
-
-I'm always open to discussing software development, collaborating on interesting projects, and exploring new opportunities.
+## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/hariwr25">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/hari-wahyu-ramadhan">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:hariwr25@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+
+<a href="https://hariwr25.github.io/hari-portfolio/">
+<img src="https://skillicons.dev/icons?i=web"/>
+</a>
+
+<a href="https://www.linkedin.com/in/hari-wahyu-ramadhan">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
 </p>
 
+
+<h3 align="center">
+⭐ Thanks for visiting my profile!
+</h3>
+
 <p align="center">
-  ⭐ <b>Thanks for visiting my profile!</b>
-  <br/>
-  <i>Building, Learning, and Growing One Project at a Time. 🚀</i>
+🚀 Let's build something amazing together
 </p>
